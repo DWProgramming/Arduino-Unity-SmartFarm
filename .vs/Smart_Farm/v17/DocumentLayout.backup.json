@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dwlee\\unity_project\\UnityVisualization_universal3d\\Smart_Farm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE2D533-ED04-4BB2-C9F6-09B6F60FF971}|Assembly-CSharp.csproj|c:\\users\\dwlee\\unity_project\\unityvisualization_universal3d\\smart_farm\\assets\\scripts\\main.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ACE2D533-ED04-4BB2-C9F6-09B6F60FF971}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\main.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE2D533-ED04-4BB2-C9F6-09B6F60FF971}|Assembly-CSharp.csproj|c:\\users\\dwlee\\unity_project\\unityvisualization_universal3d\\smart_farm\\assets\\scripts\\connect_arduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2D533-ED04-4BB2-C9F6-09B6F60FF971}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\connect_arduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.uxml",
+              "DocumentMoniker": "C:\\Users\\dwlee\\unity_project\\UnityVisualization_universal3d\\Smart_Farm\\Assets\\Scripts\\main.uxml",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\main.uxml",
+              "ToolTip": "C:\\Users\\dwlee\\unity_project\\UnityVisualization_universal3d\\Smart_Farm\\Assets\\Scripts\\main.uxml",
+              "RelativeToolTip": "Assets\\Scripts\\main.uxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-31T22:57:14.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connect_Arduino.cs",
+              "DocumentMoniker": "C:\\Users\\dwlee\\unity_project\\UnityVisualization_universal3d\\Smart_Farm\\Assets\\Scripts\\Connect_Arduino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Connect_Arduino.cs",
+              "ToolTip": "C:\\Users\\dwlee\\unity_project\\UnityVisualization_universal3d\\Smart_Farm\\Assets\\Scripts\\Connect_Arduino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Connect_Arduino.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T21:59:51.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
