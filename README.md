@@ -44,6 +44,9 @@ Smart_Farm/
 ```
 
 ## Result
+<img width="4032" height="3024" alt="image (2)" src="https://github.com/user-attachments/assets/a6a0cc9d-b8c9-4bdb-841e-ae724db567f9" />
+
 https://github.com/user-attachments/assets/856181c1-4ec4-4762-85f7-33d0cb3a9e1a
 
+- 플래시 라이트를 비추면 조도가 상승했음을 볼 수 있음
 
